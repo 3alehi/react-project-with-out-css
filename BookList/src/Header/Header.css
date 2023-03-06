@@ -1,0 +1,10 @@
+.h1{
+    display: flex;
+    justify-content: center;
+
+}
+span{
+    position: relative;
+    right: 5px;
+    top: 5px;
+}
