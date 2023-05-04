@@ -1,0 +1,18 @@
+/* .Card-welcom{
+    display: flex;
+    justify-content: center;
+    font-size: 20px;
+} */
+.Card-Buy{
+display: flex;
+justify-content: space-between;
+text-align: center;
+align-items: center;
+border: 2px solid red;
+border-radius: 50px;
+box-shadow: 5px 3px 3px 2px rgb(6, 209, 212);
+margin: 20px auto ;
+}
+.Card-Buy img{
+    width: 150px;
+}
