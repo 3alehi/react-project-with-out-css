@@ -1,0 +1,27 @@
+*{
+    background-color: rgb(54, 183, 247);
+}
+.input{
+    width: 50%;
+    border-radius: 50px;
+    outline: none;
+}
+.font{
+    font-size: 40px;
+}
+.Todoshow{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid red;
+    width:50%;
+    margin: 0 auto;
+    border-radius: 20px;
+    margin-top: 20px;
+    padding: 5px;
+
+    flex-direction: row;
+
+
+
+    box-shadow: 2px 2px 2px red ,2px 5px 2px 2px green;
+}
